@@ -1,4 +1,4 @@
-# 🧬 SWYNEX Internship – Task 3
+# 
 
 Visualization and Scientific Interpretation of Breast Cancer Gene Expression Data
 
